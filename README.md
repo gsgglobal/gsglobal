@@ -1,3 +1,5 @@
-Microsoft Dynamics 365 Partner | Dynamics CRM Consulting Services
-Gsg Global Solutions is a Microsoft Dynamics gold partner in the UK to accelerate your business with Intelligent dynamics CRM Consulting Services.
-https://www.gsgglobalsolutions.com/dynamics-crm-consulting-services
+Manufacturing Production Software | Manufacturing ERP Software 
+
+Gsg Global Solutions Provides Simple yet powerful Manufacturing ERP software that helps small manufacturers organize production.  Quick and Easy to access.
+
+https://www.gsgglobalsolutions.com/manufacturing-production-software
